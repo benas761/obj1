@@ -1,2 +1,2 @@
 # obj1
-Pirmoji objektinio programavimo uzduotis
+v0.2: Programa nustato ar noteris pagal paskutine vardo raide: jei baigiasi su e arba a, tai moteris.

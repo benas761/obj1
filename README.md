@@ -1,2 +1,2 @@
-# obj1.1
+# obj1
 Pirmoji objektinio programavimo uzduotis
